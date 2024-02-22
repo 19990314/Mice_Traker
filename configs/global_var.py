@@ -1,0 +1,1 @@
+root = "D:\Shuting_Chen\mice_tracker\configs"
